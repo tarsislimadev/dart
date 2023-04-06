@@ -8,7 +8,7 @@ Dart - [GitHub](https://github.com/brtmvdl/docker-dart) - [Docker Hub](https://h
 
 ## Projects
 
-...
+[Flutter](https://github.com/brtmvdl/flutter)
 
 ## Services
 
